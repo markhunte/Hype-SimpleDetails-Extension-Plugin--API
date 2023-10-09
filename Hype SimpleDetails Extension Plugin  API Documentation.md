@@ -115,12 +115,18 @@ Note if you have any details on scenes not yet displayed. The Browser will warn 
 
 ### API Call Construction 
 
+:Constructior  **hypeDocument.setDescription(targetElement,descriptionText,{options });**
+
 
 
 To create detail/summary elements, construct API calls by defining the following variables:
 
 - `targetElement`: The value  of either the containing symbol or the standalone text box's `data-id` attribute.
-- `descriptionText`: The literal formatted text for the detail/summary. ( or string text if you so choose )
+- `descriptionText`: 
+
+  [Template Litrals]: https://github.com/markhunte/Hype-SimpleDetails-Extension-Plugin--API/blob/main/Template%20Litrals%20Explained%20in%20brief.md
+
+   formatted ( enclosed in backticks `` ) text for the detail/summary. ( or string text if you so choose )
 - `options`: Optional settings to style the resulting detail/summary.
 
 
