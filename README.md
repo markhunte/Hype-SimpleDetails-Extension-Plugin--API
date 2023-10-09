@@ -34,13 +34,15 @@ To clarify, here are some examples of data-id keys and values:
 
 **Text box1 has**:
 
-`data-disclosure`
+`data-disclosure` Additionl HTML attribute and no value
+It also has the
 
-``data-id`   with the value  of `foo1`  This unique data-id value identifies a text box
+``data-id`   Additionl HTML attribute with the value  of `foo1`  This unique data-id value identifies a text box
 
 **Text box1 has:**
 
-`data-disclosure`
+`data-disclosure` Additionl HTML attribute and no value
+It also has the
 
 ``data-id`   with the value  of  `foo2`  This unique data-id value identifies another text box with the ID "foo2" 
 
@@ -62,25 +64,25 @@ Note: It's essential to give each symbol instance a unique `data-id` value to di
 
 To clarify, here are some examples of data-id keys and values:
 
-One Instance of symbol named **symbolFoo** has the attribute:
+One Instance of a symbol named **symbolFoo** has the 
 
-``data-id`   with the value  of  `symFoo1`  This unique data-id value identifies this symbol  the ID "symFoo1" 
+``data-id`   Additionl HTML attribute with the value  of  `symFoo1`  This unique data-id value identifies this symbol with the ID "symFoo1" 
 
-Because its a symbol instance with the `data-id` , the extension will look inside it for a text box with an attribute of `data-disclosure`
+Because its a symbol instance with the `data-id` , the extension will look inside it for a text box with an Additionl HTML attribute  of `data-disclosure`
 
 The text box does not need the `data-id` 
 
 A second Instance of symbol named **symbolFoo** has the attribute:
 
-``data-id`   with the value  of  `symFoo2`  This unique data-id value identifies this symbol  the ID "symFoo2" 
+``data-id`   with the value  of  `symFoo2`  This unique data-id value identifies this symbol with the ID "symFoo2" 
 
-Because its a symbol instance with the `data-id` , the extension will look inside it for a text box with an attribute of `data-disclosure`
+Because its a symbol instance with the `data-id` , the extension will look inside it for a text box with an Additionl HTML attribute  of `data-disclosure`
 
 The text box does not need the `data-id` 
 
 
 
-The two text boxes in symbol instances will be treated as individual.  ( Even though they are techniclly  the same text box since we are using a Symbol instance )
+The two text boxes in symbol instances will be treated as individuals.  ( Even though they are techniclly the same text box since we are using a Symbol instance )
 
 ## 
 
