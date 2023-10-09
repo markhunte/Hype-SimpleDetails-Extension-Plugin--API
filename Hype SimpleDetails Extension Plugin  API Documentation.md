@@ -125,7 +125,7 @@ To create detail/summary elements, construct API calls by defining the following
 - `descriptionText`: Template Literals formatted ( enclosed in backticks `` ) text for the detail/summary. ( or string text if you so choose )
 - `options`: Optional settings to style the resulting detail/summary.
 
- [Litral Template text](/main/Template%20Litrals%20Explained%20in%20brief.md)
+ [Litral Template text](/Template%20Litrals%20Explained%20in%20brief.md)
 
 API Options
 
