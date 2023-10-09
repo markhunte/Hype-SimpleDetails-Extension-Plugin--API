@@ -126,7 +126,7 @@ To create detail/summary elements, construct API calls by defining the following
 - `options`: Optional settings to style the resulting detail/summary.
 
  
-[<a href="Template Litrals Explained in brief.md/</a>](Template Litrals )
+[Template Litrals](https://github.com/markhunte/Hype-SimpleDetails-Extension-Plugin--API/blob/main/Template%20Litrals%20Explained%20in%20brief.md)
 
 API Options
 
