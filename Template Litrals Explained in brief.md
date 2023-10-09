@@ -1,6 +1,6 @@
 Template Litrals Explained in brief.
 
-When you surround multiline text or any string with backticks (` ` `), it's called using a "template literal" or "template string." Template literals are a feature introduced in ECMAScript 2015 (ES6) and provide a more convenient way to work with strings in JavaScript, especially when you need to include variables or multiline text within a string.
+When you surround multiline text or any string with backticks ( <code> ` </code> ), it's called using a "template literal" or "template string." Template literals are a feature introduced in ECMAScript 2015 (ES6) and provide a more convenient way to work with strings in JavaScript, especially when you need to include variables or multiline text within a string.
 
 Template literals offer a few advantages over traditional string concatenation or string interpolation methods:
 
