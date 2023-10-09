@@ -126,6 +126,7 @@ To create detail/summary elements, construct API calls by defining the following
 - `options`: Optional settings to style the resulting detail/summary.
 
 
+[a relative link](Template Litrals Explained in brief.md)
 
 API Options
 
