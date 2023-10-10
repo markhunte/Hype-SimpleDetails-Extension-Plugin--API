@@ -1,5 +1,5 @@
 <details>
-  <summary>Global Auto Close Control</summary>
+  <summary>Long Version</summary>
   <p>
     To globally control auto-closing, you can use the API call
   </p>
