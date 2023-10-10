@@ -1,12 +1,10 @@
 <details>
   <summary>Long Version</summary>
-  <p>
-    To globally control auto-closing, you can use the API call
-  </p>
+ 	    # Hype-SimpleDetails-Extension-Plugin--API
+A Tumult Hype Extenion Project
   <details>
     <summary> 
-	    # Hype-SimpleDetails-Extension-Plugin--API
-A Tumult Hype Extenion Project
+
 
 
 ---
