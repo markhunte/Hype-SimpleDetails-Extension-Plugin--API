@@ -98,7 +98,7 @@ By following these steps, you can easily add and customize detail/summary elemen
 
 
 	
-  <summary>Long Version</summary>
+  <summary>Long Version </summary>
  
   LONG VERSION.	
 
