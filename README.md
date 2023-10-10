@@ -1,17 +1,9 @@
-<details>
-	 	    # Hype-SimpleDetails-Extension-Plugin--API
-A Tumult Hype Extenion Project
-	
-  <summary>Short Version</summary>
 
-   </details>
-
-   
   <details>
 	 	    # Hype-SimpleDetails-Extension-Plugin--API
 A Tumult Hype Extenion Project
 	
-  <summary>Long Version</summary>
+  <summary>Long Version
 
 
 
