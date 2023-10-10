@@ -1,14 +1,22 @@
 
-  <details>
+
+ <details>
 
 
 	
   <summary>Short Version</summary>
+
+
+  some text
+  </details>
+  
+  <details>
+
+
+	
+  <summary>long Version</summary>
  
 	
-  <summary>Long Version
-
-
 
 
 ---
