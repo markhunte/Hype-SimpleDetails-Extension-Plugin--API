@@ -5,11 +5,6 @@
 	
   <summary>Short Version</summary>
  
-
-
-   
-	 	    # Hype-SimpleDetails-Extension-Plugin--API
-A Tumult Hype Extenion Project
 	
   <summary>Long Version
 
@@ -353,8 +348,6 @@ This script allows you to toggle auto-closing behavior on or off  for any detail
 Turning on will not affect any details that where never set to **acceptsAutoClose**
 
 ---
-  
-    </summary>
-   
+ 
    
   </details>
