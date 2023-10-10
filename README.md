@@ -1,14 +1,22 @@
 
 
- <details>
+<details><summary>head 1</summary>
+      <details><summary>head 1.1</summary>
+        content 1.1
+    </details>
+    <details><summary>head 1.2</summary>
+        content 1.2
+    </details>
+</details>
+<details><summary>head 2</summary>
+    <details><summary>head 2.1</summary>
+        content 1.1
+    </details>
+    <details><summary>head 2.2</summary>
+        content 1.2
+    </details>
+</details>
 
-
-	
-  <summary>Short Version</summary>
-
-
-  some text
-  </details>
   
   <details>
 
