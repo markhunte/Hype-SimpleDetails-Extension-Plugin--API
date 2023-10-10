@@ -1,4 +1,4 @@
-
+# Hype SimpleDetails Extension Plugin API Documentation
 
 <details>
 	<summary>Short Version</summary>
@@ -98,9 +98,9 @@ By following these steps, you can easily add and customize detail/summary elemen
 
 
 	
-  <summary>long Version</summary>
+  <summary>Long Version</summary>
  
-	
+  LONG VERSION.	
 
 
 ---
