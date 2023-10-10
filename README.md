@@ -2,6 +2,7 @@
 
 # Hype SimpleDetails Extension Plugin API Documentation
 |
+`
 <details>
 	<summary>Short Version</summary>
       
@@ -93,9 +94,9 @@ By following these steps, you can easily add and customize detail/summary elemen
 
    
 </details>
-
+`
 |
-  
+  `
   <details>
 
 
@@ -445,4 +446,5 @@ Turning on will not affect any details that where never set to **acceptsAutoClos
  
    
   </details>
+`
 |
