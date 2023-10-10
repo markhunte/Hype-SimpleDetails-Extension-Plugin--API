@@ -1,4 +1,11 @@
-# Hype-SimpleDetails-Extension-Plugin--API
+<details>
+  <summary>Global Auto Close Control</summary>
+  <p>
+    To globally control auto-closing, you can use the API call
+  </p>
+  <details>
+    <summary> 
+	    # Hype-SimpleDetails-Extension-Plugin--API
 A Tumult Hype Extenion Project
 
 
@@ -339,4 +346,8 @@ This script allows you to toggle auto-closing behavior on or off  for any detail
 Turning on will not affect any details that where never set to **acceptsAutoClose**
 
 ---
-
+  
+    </summary>
+   
+   
+  </details>
