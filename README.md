@@ -1,5 +1,9 @@
 
 
+
+<iframe src="https://github.com/markhunte/Hype-SimpleDetails-Extension-Plugin--API/blob/main/Hype%20SimpleDetails%20Extension%20Plugin%20%20API%20Documentation.md" title="W3Schools Free Online Web Tutorials"></iframe>
+
+
 # Hype SimpleDetails Extension Plugin API Documentation
 |
 `
