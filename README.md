@@ -1,5 +1,13 @@
 
   <details>
+
+
+	
+  <summary>Short Version</summary>
+ 
+
+
+   
 	 	    # Hype-SimpleDetails-Extension-Plugin--API
 A Tumult Hype Extenion Project
 	
